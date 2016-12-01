@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Demo\\imooc_arcmenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\composer_thought.png",
+        "source": "D:\\Demo\\imooc_arcmenu1\\app\\src\\main\\res\\drawable-hdpi\\composer_thought.png"
+    },
+    {
+        "merged": "D:\\Demo\\imooc_arcmenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\composer_with.png",
+        "source": "D:\\Demo\\imooc_arcmenu1\\app\\src\\main\\res\\drawable-hdpi\\composer_with.png"
+    },
+    {
+        "merged": "D:\\Demo\\imooc_arcmenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Demo\\imooc_arcmenu1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Demo\\imooc_arcmenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\composer_sleep.png",
+        "source": "D:\\Demo\\imooc_arcmenu1\\app\\src\\main\\res\\drawable-hdpi\\composer_sleep.png"
+    },
+    {
+        "merged": "D:\\Demo\\imooc_arcmenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\composer_icn_plus.png",
+        "source": "D:\\Demo\\imooc_arcmenu1\\app\\src\\main\\res\\drawable-hdpi\\composer_icn_plus.png"
+    },
+    {
+        "merged": "D:\\Demo\\imooc_arcmenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\composer_button.png",
+        "source": "D:\\Demo\\imooc_arcmenu1\\app\\src\\main\\res\\drawable-hdpi\\composer_button.png"
+    },
+    {
+        "merged": "D:\\Demo\\imooc_arcmenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\composer_place.png",
+        "source": "D:\\Demo\\imooc_arcmenu1\\app\\src\\main\\res\\drawable-hdpi\\composer_place.png"
+    },
+    {
+        "merged": "D:\\Demo\\imooc_arcmenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\composer_music.png",
+        "source": "D:\\Demo\\imooc_arcmenu1\\app\\src\\main\\res\\drawable-hdpi\\composer_music.png"
+    },
+    {
+        "merged": "D:\\Demo\\imooc_arcmenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\composer_camera.png",
+        "source": "D:\\Demo\\imooc_arcmenu1\\app\\src\\main\\res\\drawable-hdpi\\composer_camera.png"
+    }
+]
