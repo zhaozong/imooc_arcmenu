@@ -52,7 +52,7 @@ public class MainActivity extends Activity
 					int visibleItemCount, int totalItemCount)
 			{
 				if (mArcMenu.isOpen())
-					mArcMenu.toggleMenu(600);
+					mArcMenu.toggleMenu();
 			}
 		});
 		

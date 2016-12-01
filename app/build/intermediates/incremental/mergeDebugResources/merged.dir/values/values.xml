@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <attr name="position">
-        <enum name="left_top" value="0"/>
-        <enum name="left_bottom" value="1"/>
-        <enum name="right_top" value="2"/>
-        <enum name="right_bottom" value="3"/>
-    </attr>
-    <attr format="dimension" name="radius"/>
-    <declare-styleable name="ArcMenu"><attr name="position"/><attr name="radius"/></declare-styleable>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <string name="action_settings">Settings</string>
