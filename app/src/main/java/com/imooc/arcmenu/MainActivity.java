@@ -81,6 +81,7 @@ public class MainActivity extends Activity
 	{
 		mListView = (ListView) findViewById(R.id.id_listview);
 		mArcMenu = (ArcMenu) findViewById(R.id.id_menu);
+		mArcMenu.setDirection(ArcMenu.X_LEFT,ArcMenu.Y_DOWN);
 	}
 
 }

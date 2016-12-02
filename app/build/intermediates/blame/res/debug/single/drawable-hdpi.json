@@ -20,12 +20,12 @@
         "source": "D:\\Demo\\imooc_arcmenu1\\app\\src\\main\\res\\drawable-hdpi\\composer_icn_plus.png"
     },
     {
-        "merged": "D:\\Demo\\imooc_arcmenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\composer_button.png",
-        "source": "D:\\Demo\\imooc_arcmenu1\\app\\src\\main\\res\\drawable-hdpi\\composer_button.png"
-    },
-    {
         "merged": "D:\\Demo\\imooc_arcmenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\composer_place.png",
         "source": "D:\\Demo\\imooc_arcmenu1\\app\\src\\main\\res\\drawable-hdpi\\composer_place.png"
+    },
+    {
+        "merged": "D:\\Demo\\imooc_arcmenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\composer_button.png",
+        "source": "D:\\Demo\\imooc_arcmenu1\\app\\src\\main\\res\\drawable-hdpi\\composer_button.png"
     },
     {
         "merged": "D:\\Demo\\imooc_arcmenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\composer_music.png",

@@ -133,8 +133,8 @@ public class ArcMenu extends ViewGroup implements OnClickListener {
                 int cHeight = child.getMeasuredHeight();
 
                 //一级菜单图标和二级菜单图标中心对其
-                cl = cl + (mCButton_left + mCButton.getMeasuredWidth() / 2 - child.getMeasuredWidth() / 2) * xflag;
-                ct = ct + (mCButton_top + mCButton.getMeasuredHeight() / 2 - child.getMeasuredHeight() / 2) * yflag;
+                cl = cl* xflag + (mCButton_left + mCButton.getMeasuredWidth() / 2 - child.getMeasuredWidth() / 2) ;
+                ct = ct * yflag +( mCButton_top + mCButton.getMeasuredHeight() / 2 - child.getMeasuredHeight() / 2);
 
                 Log.i("TAG", "CL : " + cl + "   CT : " + ct);
                 child.layout(cl, ct, cl + cWidth, ct + cHeight);
